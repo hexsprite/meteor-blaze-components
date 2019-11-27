@@ -22,7 +22,7 @@ Package.registerBuildPlugin({
 });
 
 Package.onUse(function (api) {
-  api.versionsFrom('METEOR@1.8.1');
+  api.versionsFrom('METEOR@1.8.2');
 
   // Core dependencies.
   api.use([
